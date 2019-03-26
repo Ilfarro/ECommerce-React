@@ -1,0 +1,10 @@
+/* HEADER */
+.navigasi {
+  background-color: #5a8db6;
+}
+
+.btn:focus,
+.btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
